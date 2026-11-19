@@ -291,7 +291,7 @@ This license applies to the software itself and does not supersede the terms of 
 If you use EarthCARE F90Reader AC_CLP in your research, please acknowledge and cite the software, including the version used, in your publications and other scientific outputs.
 Until the associated journal paper becomes available, please use the following software citation:
 
-Michibata, T. (2026). EarthCARE F90Reader AC_CLP (Version 1.0) [Computer software]. [Software DOI / official release URL].
+Michibata, T. (2026). EarthCARE F90Reader AC_CLP (Version 1.0) [Computer software]. https://github.com/comets2021/EarthCARE_F90Reader_AC_CLP_v1.0.git
 
 A manuscript describing this software is being prepared for submission. Once published, its reference and DOI will be added here. Users will then be encouraged to cite both the software release and the associated publication.
 
@@ -302,7 +302,7 @@ When publishing results based on JAXA EarthCARE Level 2 data, please also acknow
 
 EarthCARE F90Reader AC_CLP is freely available from the official GitHub repository:
 
-[Official GitHub Repository URL]
+https://github.com/comets2021/EarthCARE_F90Reader_AC_CLP_v1.0.git
 
 No user registration is required.
 Users are encouraged to obtain the latest official version directly from this repository to ensure access to up-to-date software and documentation.
